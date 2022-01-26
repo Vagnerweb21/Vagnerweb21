@@ -1,0 +1,262 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>HTML</title>
+  
+  <!-- HTML -->
+  
+
+  <!-- Custom Styles -->
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <td><a link href=" " </a>
+    <img src="/storage/emulated/0/Download/HTML_free-file (2).png 
+  " alt="" width="104" height="142"></td><td><a link href=" " </a>
+    <img src="/storage/emulated/0/Download/JAVA_free-file (2).png
+  " alt="" width="104" height="142"></td><td><a link href=" " </a>
+    <img src="/storage/emulated/0/Download/CSS_free-file (4).png
+  " alt="" width="104" height="142"></td>
+  <!-- Project -->
+  <script src="main.js"></script>
+</body>
+</html>
+<!DOCTYPE html> 
+
+<html> 
+
+<head> 
+
+    <title>POWER CODING</title> 
+
+    <style> 
+
+        body{ 
+
+            margin:10px; 
+
+        } 
+
+        .header{ 
+
+                padding: 10px; 
+
+                background-color:#455e64; 
+
+                text-align: center; 
+
+               } 
+
+          .header h2{ 
+
+            color: White; } 
+
+              /*===============[Nav CSS]==========*/ 
+
+              .nav{ 
+
+                background-color:#243238; 
+
+                padding: 5px; 
+
+                } 
+
+              
+
+              .nav li{ 
+
+              list-style: none; 
+
+              display: inline-block; 
+
+              padding: 8px; 
+
+               } 
+
+           .nav a{ 
+
+            color: #fff; 
+
+           } 
+
+            
+
+          .nav ul li a:hover{ 
+
+            text-decoration: none; 
+
+            color: #7fffd4; 
+
+           } 
+
+              .lside{ 
+
+                 float: left; 
+
+               width:100%; 
+
+               min-height: 440px; 
+
+               background-color: #f0f8ff; 
+
+               text-align: center; 
+
+              } 
+
+           .rside 
+
+           { 
+
+            text-align: center; 
+
+            float: right; 
+
+            width: 100%; 
+
+              min-height: 440px; 
+
+             background-color:  #c1cdcd; 
+
+           } 
+
+           .footer{ 
+
+             height: 44px; 
+
+                background-color:#455e64;  
+
+            text-align: center;  
+
+            padding-top: 10px;} 
+
+ 
+
+            .footer p{ 
+
+                color:  #8fbc8f; 
+
+            } 
+
+ 
+
+    </style> 
+
+</head> 
+
+<body> 
+
+<div> 
+
+    <div class="header"> 
+
+      <h2>POWER CODING</h2> 
+
+    </div> 
+
+            <!-- Nav --> 
+
+        <div class="nav"> 
+
+            <ul> 
+
+                <li><a href="#">HTML</a></li> 
+
+                <li><a href="#">CSS</a></li> 
+
+                <li><a href="#">JAVA</a></li> 
+
+                <li><a href="#">EDITOR</a></li> 
+
+                <li style="float: right;"><a href="#">CURSOS ONLINE</a></li> 
+
+                <li style="float: right;"><a href="#">SIGN-UP</a></li> 
+
+            </ul> 
+
+        </div> 
+
+      
+
+      <!-- main --> 
+
+        <div style="height:440px"> 
+
+            <div class="lside">    
+
+                <p>  <textarea cols="65" rows=30> <!DOCTYPE html>
+<html>
+<head>
+   <title> Try It Yourself </title>
+</head>
+<body>
+   <div id="sample" style="width: 300px; height: 100px; background-color: White; border: 5px solid black;"><a link href="https://go.hotmart.com/L64461862V?dp=1 "</a>
+<img src="/storage/emulated/0/DCIM/.thumbnails/1641219188118.jpg
+" alt="vagnerweb21" width="300" height="100"></div>
+   <button onclick="show();"> Show </button>
+  
+   
+   <script type="text/javascript">
+      function show() {
+         document.getElementById("sample").style.display = "block";
+      }
+      
+      function hide() {
+         document.getElementById("sample").style.display = "none";
+      }
+   </script>
+</body>
+</html>  </textarea> </p> 
+
+   <p> <button><h2> output<h2></button>     </p>
+
+        <!-- side --> 
+<div class="rside"> <!DOCTYPE html>
+<html>
+<head>
+   <title> Try It Yourself </title>
+</head>
+<body>
+   <div id="sample" style="width: 300px; height: 100px; background-color: White; border: 5px solid black;"><a link href="https://go.hotmart.com/L64461862V?dp=1 "</a>
+<img src="/storage/emulated/0/DCIM/.thumbnails/1641219188118.jpg
+" alt="vagnerweb21" width="300" height="100"></div>
+   <button onclick="show();"> Show </button>
+  
+   
+   <script type="text/javascript">
+      function show() {
+         document.getElementById("sample").style.display = "block";
+      }
+      
+      function hide() {
+         document.getElementById("sample").style.display = "none";
+      }
+   </script>
+</body>
+</html>
+ </p><p><div class="footer"><td> <a link href=" "</a>
+<img src="/storage/emulated/0/HtmlTutorial/JavaScript/left_arrow.png
+" alt="left" width="74" height="72"> </td> 
+
+           <td> <a link href=" "</a>
+<img src=" /storage/emulated/0/HtmlTutorial/JavaScript/right_arrow.png
+" alt="height " width="74" height="72"></td>
+
+    </div></p>
+<p>
+      <!-- footer --> 
+
+       <div class="footer"> 
+
+      ©<strong>Copyright &#9824;  vagnerweb21@gmail.com</strong></p> </div>
+
+     
+
+
+</body> 
+
+</html> 
